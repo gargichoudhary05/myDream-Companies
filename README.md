@@ -7,3 +7,8 @@ my dream Companies to work for
 4) Microsoft
 5) Google
 6) Meta
+7) Grab
+8) Intuit
+9) Atlassian
+10) Rippling
+
