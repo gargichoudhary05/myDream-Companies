@@ -1,5 +1,6 @@
 # myDream-Companies
-my dream Companies to work for
+my dream Companies to work for:
+
 
 1) Zomato/ Adobe/ Uber/ Booking.com(Amsterdam)/ Databricks
 2) Amazon
