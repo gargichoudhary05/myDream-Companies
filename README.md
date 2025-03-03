@@ -1,7 +1,7 @@
 # myDream-Companies
 my dream Companies to work for
 
-1) Swiggy
+1) Zomato/ Adobe/ Uber/ Booking.com(Amsterdam)/ Databricks
 2) Amazon
 3) Booking.com -> Amsterdam, Netherlands
 4) Microsoft
